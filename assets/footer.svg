@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="105" viewBox="0 0 1200 105" role="img" aria-labelledby="title">
+  <title id="title">Keep learning, keep building</title>
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7AA2F7"/>
+      <stop offset="0.5" stop-color="#BB9AF7"/>
+      <stop offset="1" stop-color="#2AC3DE"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 28 C160 76 290 4 430 34 S720 70 860 31 S1060 3 1200 36" fill="none" stroke="url(#wave)" stroke-opacity="0.65" stroke-width="2"/>
+  <path d="M0 45 C175 86 295 22 450 49 S720 83 875 47 S1065 26 1200 50" fill="none" stroke="url(#wave)" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="600" y="83" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="15" letter-spacing="3" fill="#7AA2F7">KEEP LEARNING · KEEP BUILDING</text>
+</svg>

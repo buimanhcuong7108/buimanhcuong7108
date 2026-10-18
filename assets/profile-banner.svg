@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Bờm — Computer Science student at UIT</title>
+  <desc id="desc">A modern dark blue and violet gradient banner with abstract coding and neural network motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101522"/>
+      <stop offset="0.55" stop-color="#171B35"/>
+      <stop offset="1" stop-color="#252044"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7AA2F7"/>
+      <stop offset="0.52" stop-color="#BB9AF7"/>
+      <stop offset="1" stop-color="#2AC3DE"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7AA2F7" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#7AA2F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#A9B1D6" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="310" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="310" rx="24" fill="url(#grid)"/>
+  <circle cx="1020" cy="105" r="250" fill="url(#orb)"/>
+  <circle cx="220" cy="310" r="210" fill="url(#orb)"/>
+  <path d="M760 0 C850 90 820 160 930 205 S1090 245 1200 190" stroke="url(#glow)" stroke-opacity="0.34" stroke-width="2" fill="none"/>
+  <path d="M720 0 C815 95 800 165 910 220 S1080 260 1200 215" stroke="#7AA2F7" stroke-opacity="0.20" stroke-width="1" fill="none"/>
+  <g fill="none" stroke="url(#glow)" stroke-width="2" stroke-opacity="0.8">
+    <path d="M885 79 L944 119 L1004 82 L1068 127 L1128 90"/>
+    <path d="M944 119 L934 187 L1002 224 L1068 181 L1068 127"/>
+    <path d="M1004 82 L1002 224" stroke-opacity="0.38"/>
+  </g>
+  <g fill="#171B35" stroke="url(#glow)" stroke-width="2">
+    <circle cx="885" cy="79" r="6"/><circle cx="944" cy="119" r="7"/><circle cx="1004" cy="82" r="6"/>
+    <circle cx="1068" cy="127" r="8"/><circle cx="1128" cy="90" r="6"/><circle cx="934" cy="187" r="6"/>
+    <circle cx="1002" cy="224" r="7"/><circle cx="1068" cy="181" r="6"/>
+  </g>
+  <g transform="translate(72 70)">
+    <rect x="0" y="0" width="8" height="148" rx="4" fill="url(#glow)"/>
+    <text x="34" y="62" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="1.5" fill="#F3F4F8">BỜM</text>
+    <text x="36" y="101" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="3.4" fill="#A9B1D6">COMPUTER SCIENCE · UIT</text>
+    <text x="36" y="136" font-family="JetBrains Mono, Consolas, monospace" font-size="15" letter-spacing="1.2" fill="#7AA2F7">LEARN  /  BUILD  /  ITERATE</text>
+  </g>
+  <path d="M72 263 H1128" stroke="#A9B1D6" stroke-opacity="0.2"/>
+  <circle cx="72" cy="263" r="3" fill="#7AA2F7"/>
+  <circle cx="1128" cy="263" r="3" fill="#2AC3DE"/>
+</svg>
