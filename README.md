@@ -1,15 +1,15 @@
 <!--
 PROFILE README TEMPLATE
-Before publishing, replace every occurrence of YOUR_GITHUB_USERNAME with your exact GitHub username.
+Before publishing, replace every occurrence of buimanhcuong7108 with your exact GitHub username.
 For a profile README, the repository name must match your GitHub username.
---> 
+-->
 
 <p align="center">
   <img src="./assets/profile-banner.svg" alt="Bờm — Computer Science student at UIT" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/buimanhcuong7108">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1100&color=7AA2F7&center=true&vCenter=true&width=760&height=55&lines=Computer+Science+Student+%40+UIT;Exploring+Machine+Learning+and+Data;Learning+by+building%2C+testing%2C+and+iterating" alt="Typing SVG" />
   </a>
 </p>
@@ -21,7 +21,7 @@ For a profile README, the repository name must match your GitHub username.
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/buimanhcuong7108"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <img src="https://img.shields.io/badge/Mindset-Learn%20%7C%20Build%20%7C%20Improve-7AA2F7?style=flat-square" alt="Learn, build, improve" />
 </p>
 
@@ -73,7 +73,7 @@ Hi, I'm **Bờm** — a Computer Science student at the **University of Informat
 ## 🧭 Current Learning Roadmap
 
 | Track | What I'm working on | Status |
-|---|---|---|
+| --- | --- | --- |
 | 🤖 **Machine Learning** | Regression, classification, feature selection, encoding categorical variables, and evaluation metrics such as RMSE and R² | 🟡 In progress |
 | 🧹 **Data Preparation** | Exploring DataFrames, missing values, one-hot encoding, and preparing data for training | 🟡 In progress |
 | 🌿 **Git & GitHub** | Staging, commits, branches, remotes, reset/restore, and the push–pull–fetch workflow | 🟡 In progress |
@@ -98,12 +98,12 @@ A hands-on learning exercise based on the **US pumpkins dataset** from Microsoft
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=00000000" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=00000000" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=buimanhcuong7108&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=00000000" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buimanhcuong7108&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=00000000" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=buimanhcuong7108&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ A hands-on learning exercise based on the **US pumpkins dataset** from Microsoft
 ### 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/buimanhcuong7108/buimanhcuong7108/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
 </p>
 
 <img src="./assets/section-divider.svg" alt="Decorative divider" width="100%" />
@@ -123,7 +123,7 @@ A hands-on learning exercise based on the **US pumpkins dataset** from Microsoft
 I'm interested in conversations about **Computer Science fundamentals, beginner-friendly ML experiments, and building better development habits**. Feel free to open a discussion or issue in one of my repositories.
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/buimanhcuong7108">
     <img src="https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
   </a>
 </p>
